@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154948445101",
+    "project_id": "fotografpaylasimi-e4575",
+    "storage_bucket": "fotografpaylasimi-e4575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154948445101:android:7e4463ba1b122d6c8d7724",
+        "android_client_info": {
+          "package_name": "com.gokcenaztorgan.fotografpaylasimi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuBC2D8jQ-x40NcJbV3cWGcXP259kY9Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
